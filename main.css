@@ -13,3 +13,29 @@ body.SignInBody {
     -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
+img.signIn-Image {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    width: 70%
+}
+
+form.signIn-Form {
+    max-width: 350px;
+    margin: auto;
+}
+
+button.signIn-Btn {
+    color: white;
+    background-color:darkblue;
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+a.createNewAccount {
+    font-size: 1.2rem;
+    text-align: center; 
+    display: block;
+    margin-top: 15px;
+}

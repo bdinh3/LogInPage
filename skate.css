@@ -1,0 +1,32 @@
+.container-fluid {
+    max-width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sectionDark {
+    background-color: #white;
+    padding: 2rem;
+}
+
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+
+button.coolStuffBtn {
+    background-color:aquamarine;
+    color: cornflowerblue;
+    display: block;
+    margin: auto;
+    
+}
